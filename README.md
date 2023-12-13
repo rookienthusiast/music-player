@@ -1,20 +1,29 @@
-<p align="center"><img src="https://github.com/NotCookey/Rainy/assets/88582190/fc09007d-43a8-4526-8824-ad684a303d52" width="130px"></p>
-<h2 align="center">Rainy Musicart</h2>
-<p align="center"><b>Rainy Musicart is a lightweight music player with an aesthetically pleasing design</b></p>
-<kbd><img src="https://user-images.githubusercontent.com/88582190/266058070-c806c611-f65c-459f-bce3-e2ea2a175db3.png"></kbd>
+<h2 align="center">El - Sambo Musicart</h2>
+<p align="center"><b>El- Sambo Musicart adalah program untuk music player sederhana</b></p>
 
-## About
-- **Rainy Musicart is a lightweight music player built in Python that makes use of the lovely [DearPyGui](https://github.com/hoffstadt/DearPyGui/) for the aesthetically designed interface as well as a number of third-party libraries.**
+## Tentang Program
+- **El - Sambo Musicart adalah program music player, dibuat menggunakan bahasa pemrograman python. Pembuatan program ini juga didukung oleh beberapa modul.**
 
-## Install
-- **Download the repository**
-- **Install dependencies using pip `pip install -r requirements.txt`**
-- **Run Rainy.py**
+## UML DIAGRAM
+- **Class Diagram**
+- **Activity Diagram**
+- **Use Case Digram**
+- **Sequence Diagram**
 
-## Is it open-source?
-- **Licensed Under [GPL-3.0](https://github.com/NotCookey/Rainy/blob/main/LICENSE)**
+## Cara penginstalan
+- **Download Zip file dari repository, kemudian extract**
+- **Pada terminal, ketik `pip install -r requirements.txt`**
+- **Run file FIX.py**
+
+## Cara penggunaan
+- **Pilih Add Folder/Add File, nanti akan diarahkan ke directory device**
+- **Pilih Folder/File, yang ingin digunakan**
+- **Pilih audio yang ingin digunakan**
+- **Enjoy!**
+
+## Cara penggunaan
+- **Add Folder untuk menampilkan seluruh music dari folder**
+- **Add File untuk menampilkan music berdasarkan file**
 
 ## Thank you
-> **Thank you for visiting, Hope you found something useful!**
-
-> **Developed and Maintained By [NotCookey](https://github.com/NotCookey)**
+> **Terimakasih sudah berkunjung, semoga bisa bermanfaat**
