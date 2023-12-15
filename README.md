@@ -8,8 +8,9 @@
 
 ## UML DIAGRAM
 - Class Diagram
-![Img 1](uml-diagram/Class Diagram.jpg)
+- ![Img 1](uml-diagram/Class Diagram.jpg)
 - **Activity Diagram**
+- ![Img 1](uml-diagram/Activity Diagram.PNG)
 - **Use Case Digram**
 - **Sequence Diagram**
 
