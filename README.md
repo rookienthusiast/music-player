@@ -1,7 +1,7 @@
 <p align="center"><img src="music.ico"></p>
 <h2 align="center">El - Sambo Musicart</h2>
 <p align="center"><b>El- Sambo Musicart adalah program untuk music player sederhana</b></p>
-<kbd><img src="Main Page.png"></kbd>
+<kbd><img src="Main Page.PNG"></kbd>
 
 ## Tentang Program
 - **El - Sambo Musicart adalah program music player, dibuat menggunakan bahasa pemrograman python. Pembuatan program ini juga didukung oleh beberapa modul.**
