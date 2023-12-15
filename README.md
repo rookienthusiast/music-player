@@ -7,7 +7,7 @@
 - **El - Sambo Musicart adalah program music player, dibuat menggunakan bahasa pemrograman python. Pembuatan program ini juga didukung oleh beberapa modul.**
 
 ## UML DIAGRAM
-- **Class Diagram**
+- Class Diagram
 - ![Img 1](uml-diagram/Class Diagram.jpg)
 - **Activity Diagram**
 - **Use Case Digram**
