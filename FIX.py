@@ -17,7 +17,7 @@ class MusicPlayer:
     def __init__(self):
         dpg.create_context()
         dpg.create_viewport(title="El - Sambo Music",
-                            large_icon="icon.ico", small_icon="icon.ico")
+                            large_icon="music.ico", small_icon="music.ico")
         pygame.mixer.init()
         self.state = None
         self.no = 0
