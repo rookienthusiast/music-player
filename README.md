@@ -17,6 +17,8 @@
 
   ![USE CASE - El - Sambo Music vpd](https://github.com/rookienthusiast/music-player/assets/112974190/298f591b-f453-4ec5-8869-9260bd75f563)
 - **Sequence Diagram**
+- - Add File
+  - 
 
 ## Cara penginstalan
 - **Download Zip file dari repository, kemudian extract**
