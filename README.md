@@ -62,7 +62,7 @@
 - **Pilih audio yang ingin digunakan**
 - **Enjoy!**
 
-## Cara penggunaan
+## NOTE
 - **Add Folder untuk menampilkan seluruh music dari folder**
 - **Add File untuk menampilkan music berdasarkan file**
 
