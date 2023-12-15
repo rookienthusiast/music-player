@@ -11,9 +11,8 @@
   
   ![Class Diagram](https://github.com/rookienthusiast/music-player/assets/112974190/48bf6f79-2abc-4a91-8daa-bfdc1f0fd5ec)
 - **Activity Diagram**
-  
- ![ACTIVITY DIAGRAM_REVISI](https://github.com/rookienthusiast/music-player/assets/112974190/e3b16625-eae6-4b34-86c9-93dfca52d913)
 
+  ![ACTIVITY DIAGRAM_REVISI](https://github.com/rookienthusiast/music-player/assets/112974190/e3b16625-eae6-4b34-86c9-93dfca52d913)
 - **Use Case Digram**
 
   ![USE CASE - El - Sambo Music vpd](https://github.com/rookienthusiast/music-player/assets/112974190/298f591b-f453-4ec5-8869-9260bd75f563)
