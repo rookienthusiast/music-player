@@ -8,7 +8,7 @@
 
 ## UML DIAGRAM
 - Class Diagram
-- ![Img 1](uml-diagram/Class Diagram.jpg)
+- ![Class Diagram](https://github.com/rookienthusiast/music-player/assets/112974190/48bf6f79-2abc-4a91-8daa-bfdc1f0fd5ec)
 - **Activity Diagram**
 - ![Img 2](uml-diagram/Activity Diagram.PNG)
 - **Use Case Digram**
