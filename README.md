@@ -8,9 +8,10 @@
 
 ## UML DIAGRAM
 - Class Diagram
-- ![Class Diagram](https://github.com/rookienthusiast/music-player/assets/112974190/48bf6f79-2abc-4a91-8daa-bfdc1f0fd5ec)
+ ![Class Diagram](https://github.com/rookienthusiast/music-player/assets/112974190/48bf6f79-2abc-4a91-8daa-bfdc1f0fd5ec)
 - **Activity Diagram**
-- ![Img 2](uml-diagram/Activity Diagram.PNG)
+ ![ACTIVITY DIAGRAM_REVISI](https://github.com/rookienthusiast/music-player/assets/112974190/e3b16625-eae6-4b34-86c9-93dfca52d913)
+
 - **Use Case Digram**
 - **Sequence Diagram**
 
